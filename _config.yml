@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Site Title
-tagline:             'a jekyll theme for people'
-description:         'Ok'
+title:               Final Project
+tagline:             'Big spiritual questions that we care about'
+description:         'Website to describe and answer questions'
 url:                 'http://elotroalex.github.io'
 baseurl:             '/ed'
 
