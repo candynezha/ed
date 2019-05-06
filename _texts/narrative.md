@@ -1,6 +1,6 @@
----
+﻿---
 layout: narrative
-title: "Narrative of the Life of Frederick Douglass"
+title: "Narrative of the Life of Weber Douglass"
 author: Frederick Douglass
 editor: Alex Gil
 rights: Public Domain
