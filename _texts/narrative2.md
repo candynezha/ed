@@ -10,11 +10,7 @@ toc:
 - Preface
 ---
 
----
-
 ## Preface
-
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada velit quis nisi pellentesque, at tristique velit sollicitudin. Nunc sit amet odio non mauris euismod interdum. Vestibulum placerat posuere lacus. Nulla tincidunt mollis lobortis. Vestibulum hendrerit feugiat nisi, congue efficitur augue placerat a. Morbi risus felis, suscipit quis erat vitae, feugiat posuere risus. Phasellus tincidunt tempor odio, id maximus augue gravida nec. Proin faucibus ante vel dui cursus gravida. Phasellus elementum, sapien non vestibulum lobortis, urna lacus suscipit ante, eu condimentum lorem leo id velit.
 
