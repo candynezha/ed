@@ -1,4 +1,4 @@
----
+﻿---
 layout: poem
 title: Delayed till she had ceased to know
 author: Emily Dickinson
@@ -6,7 +6,7 @@ editor: Alex Gil
 source: "Bartleby.com"
 ---
 
-- DELAYED till she had ceased to know,	
+- test please ignore
 - Delayed till in its vest of snow	
 - {:.indent-2}Her loving bosom lay.	
 - An hour behind the fleeting breath,	
