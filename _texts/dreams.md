@@ -6,7 +6,7 @@ editor: Alex Gil
 source: Project Guttenberg
 ---
 
-- Hold fast to dreams1
+- Hold fast to dreams
 - For if dreams die
 - Life is a broken-winged bird
 - That cannot fly.
