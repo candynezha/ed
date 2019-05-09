@@ -1,11 +1,9 @@
 ---
 layout: poem
-title: Do the laws and writings of the Old Testament still apply today?
+title: Can you certainly know if you are going to heaven or hell?
 author: J&D
 editor: None
 source: Sure
 ---
 
--  Donec rhoncus orci vulputate urna ultricies accumsan. Sed sit amet mattis
-
-Nulla a lobortis purus, ut tempor augue. Proin eu massa rutrum, ullamcorper urna ut, varius lectus. Sed ornare vitae felis eget scelerisque. Sed ut tempus odio. Suspendisse neque sem, molestie sed lectus vel, condimentum sollicitudin tortor. Integer ac ipsum cursus, tempus augue a, semper magna. Proin mi sem, iaculis ut nulla in, aliquam efficitur velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis faucibus, ipsum sed pharetra vestibulum, tellus risus rhoncus turpis, a posuere leo quam a orci. Integer convallis sollicitudin neque, a tempus massa vehicula non. Nulla tempus mi in nulla ultricies, vitae imperdiet erat interdum. Morbi sodales diam sed imperdiet accumsan. 
+- Many Christians think that they are going to heaven when they die, but there is no solid evidence yet saying that is the truth, so we cannot know for sure whether or not we are going to either of those places. We should just have faith and trust in God. If there is a God, then there are only two options available to us and going to heaven or hell is unavoidable in such situation. In the bible, John tells the readers that if you believe in the son of God that you will have eternal life (1 John 5:13). But he doesn't say anything about sin and the requirements to go to heaven. In Romans 6:23 Paul tells us that "The wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord" Meaning that sin separates us from God and gives us death, but believing in Christ makes him give us eternal life as a gift. In 1 John 1:9 It says "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. So in conclusion, we cannot know for certain whether we will go to heaven or hell, but if we confess our sins we shall have eternal life, since sin separates us from God and gives us death.
